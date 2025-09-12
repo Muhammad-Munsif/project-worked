@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: "Segoe UI", sans-serif;
   line-height: 1.6;
   background: #fff;
   color: #333;
@@ -103,7 +103,8 @@ form {
   gap: 15px;
 }
 
-input, textarea {
+input,
+textarea {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
